@@ -54,4 +54,7 @@
 <a href="https://github.com/simocv0">
 <img src="https://img.shields.io/badge/-GitHub-2c5364?style=for-the-badge&logo=github&logoColor=4FC1E9&labelColor=0f2027" />
 </a>
+<a href="https://www.linkedin.com/in/mohamed-el-ayyady/">
+<img src="https://img.shields.io/badge/-LinkedIn-2c5364?style=for-the-badge&logo=linkedin&logoColor=4FC1E9&labelColor=0f2027" />
+</a>
 </p>
