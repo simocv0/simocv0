@@ -14,9 +14,10 @@
 <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
@@ -25,8 +26,18 @@
 
 ### Currently
 
-- **Building:** a Campaign Management API (FastAPI, SQLModel, SQLite) — moving 42's systems-programming discipline into web backend design.
-- **Learning:** front-end development with React, system design, and the fundamentals of AI, data engineering, and DevOps — rounding out the stack around my backend core.
+| Status | What |
+|---|---|
+| 🟠 Building | **DevBoard** — a production-grade Task Management API in FastAPI/SQLModel/PostgreSQL, with JWT auth, rate limiting, idempotency keys, and auto-generated OpenAPI docs. |
+| 🟠 Building | **ft_transcendence** — a full-stack platform pairing a React frontend with a WebSocket-driven backend, OAuth 2.0/JWT auth, and full Docker Compose deployment. |
+| 🔵 Learning | Front-end development with React, system design, and the fundamentals of AI, data engineering, and DevOps — rounding out the stack around my backend core. |
+
+---
+
+### Experience
+
+**Freelance C/C++ Developer & QA Collaborator** · Remote · *Feb 2025 – Aug 2025*
+Delivered memory-safe C/C++ modules for external clients, verified with Valgrind, and performed code review and functional testing that caught system-level issues before delivery.
 
 ---
 
@@ -34,10 +45,11 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | C, C++, Python, Bash |
-| **Backend & APIs** | FastAPI, SQLModel, SQLite, REST API design |
-| **Systems & Networking** | TCP/IP, socket programming, non-blocking I/O, POSIX signals, process/thread management |
-| **Environment & Tools** | Linux (Arch-based), Git, Docker, containerized dev environments |
+| **Languages** | C, C++ (C++98/STL), Python, Bash, JavaScript, HTML, CSS |
+| **Backend & APIs** | FastAPI, SQLModel, Pydantic, JWT, RESTful APIs, OpenAPI/Swagger |
+| **Systems & Networking** | Unix/Linux, socket programming, non-blocking I/O (poll), fork/execve, HTTP internals |
+| **DevOps & Tools** | Docker, Docker Compose, NGINX, TLS, Git, Makefile, Postman, Valgrind |
+| **Databases** | PostgreSQL, SQL, SQLModel ORM |
 
 ---
 
