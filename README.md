@@ -26,7 +26,7 @@
 ### Currently
 
 - **Building:** a Campaign Management API (FastAPI, SQLModel, SQLite) — moving 42's systems-programming discipline into web backend design.
-- **Learning:** low-level security fundamentals (exploitation, memory safety) via pwn.college and picoCTF.
+- **Learning:** front-end development with React, system design, and the fundamentals of AI, data engineering, and DevOps — rounding out the stack around my backend core.
 
 ---
 
