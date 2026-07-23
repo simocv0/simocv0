@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1000 24" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <g fill="#4FC1E9">
+    <rect x="0"   y="9" width="8" height="8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0s" repeatCount="indefinite"/></rect>
+    <rect x="40"  y="9" width="8" height="8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></rect>
+    <rect x="80"  y="9" width="8" height="8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></rect>
+    <rect x="160" y="9" width="8" height="8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></rect>
+    <rect x="200" y="9" width="8" height="8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="1.5s" repeatCount="indefinite"/></rect>
+    <rect x="920" y="9" width="8" height="8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="1.5s" repeatCount="indefinite"/></rect>
+    <rect x="960" y="9" width="8" height="8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></rect>
+    <rect x="992" y="9" width="8" height="8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="0" y="12" width="1000" height="2" fill="#4FC1E9" opacity="0.35"/>
+  <g fill="#ff8a3d">
+    <rect x="480" y="9" width="8" height="8"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></rect>
+    <rect x="512" y="9" width="8" height="8"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.5s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

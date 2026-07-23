@@ -41,6 +41,17 @@
 
 ---
 
-### Contact
+<p align="center">
+<img src="https://raw.githubusercontent.com/simocv0/simocv0/main/divider.svg" width="100%" />
+</p>
 
-📧 [simo.contactt@gmail.com](mailto:simo.contactt@gmail.com)
+### Let's Connect
+
+<p align="center">
+<a href="mailto:simo.contactt@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-2c5364?style=for-the-badge&logo=gmail&logoColor=4FC1E9&labelColor=0f2027" />
+</a>
+<a href="https://github.com/simocv0">
+<img src="https://img.shields.io/badge/-GitHub-2c5364?style=for-the-badge&logo=github&logoColor=4FC1E9&labelColor=0f2027" />
+</a>
+</p>
