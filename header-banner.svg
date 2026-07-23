@@ -1,0 +1,35 @@
+<svg viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="200" fill="url(#bg)"/>
+
+  <!-- soft wave shape along the bottom -->
+  <path d="M0,175 C250,145 750,205 1000,165 L1000,200 L0,200 Z" fill="#0a1620" opacity="0.45"/>
+
+  <!-- glitch watermark: 1337, low opacity, RGB-split jitter -->
+  <g font-family="Fira Code, Consolas, monospace" font-weight="700" font-size="110" text-anchor="middle">
+    <text x="500" y="115" fill="#00fff9" opacity="0.10">
+      1337
+      <animate attributeName="x" values="500;493;500;507;500" keyTimes="0;0.2;0.4;0.7;1" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="500" y="115" fill="#ff2079" opacity="0.10">
+      1337
+      <animate attributeName="x" values="500;507;500;493;500" keyTimes="0;0.2;0.4;0.7;1" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="500" y="115" fill="#ffffff" opacity="0.13">
+      1337
+      <animate attributeName="opacity" values="0.13;0.13;0.02;0.13;0.13;0.04;0.13" keyTimes="0;0.4;0.44;0.48;0.8;0.83;1" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- readable foreground text -->
+  <text x="500" y="172" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="20" fill="#d6e6f2" letter-spacing="1">
+    Backend Engineer &#8226; 42 Network
+  </text>
+</svg>
