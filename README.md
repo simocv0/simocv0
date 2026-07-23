@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4FC1E9&center=true&vCenter=true&width=600&lines=Backend+engineer+with+a+systems-level+foundation;C%2FC%2B%2B+%E2%86%92+FastAPI+%2B+Python;Building+from+sockets+up%2C+not+frameworks+down" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4FC1E9&center=true&vCenter=true&width=600&lines=Software+engineer+with+backend+skills;C%2FC%2B%2B+%E2%86%92+FastAPI+%2B+Python;Building+from+sockets+up%2C+not+frameworks+down" />
 </p>
 
 <p align="center">
@@ -45,14 +45,12 @@
 <img src="https://raw.githubusercontent.com/simocv0/simocv0/main/divider.svg" width="100%" />
 </p>
 
-### Let's Connect
+<h3 align="center">🔗 Let's Connect</h3>
+<p align="center"><sub>Always up for talking backend, systems, or your next project.</sub></p>
 
 <p align="center">
 <a href="mailto:simo.contactt@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-2c5364?style=for-the-badge&logo=gmail&logoColor=4FC1E9&labelColor=0f2027" />
-</a>
-<a href="https://github.com/simocv0">
-<img src="https://img.shields.io/badge/-GitHub-2c5364?style=for-the-badge&logo=github&logoColor=4FC1E9&labelColor=0f2027" />
 </a>
 <a href="https://www.linkedin.com/in/mohamed-el-ayyady/">
 <img src="https://img.shields.io/badge/-LinkedIn-2c5364?style=for-the-badge&logo=linkedin&logoColor=4FC1E9&labelColor=0f2027" />
