@@ -1,43 +1,37 @@
-<svg viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+<svg viewBox="0 0 700 130" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
   <defs>
     <style>
       .pixel-text { font-family: 'Fira Code', Consolas, monospace; font-weight: 700; }
     </style>
   </defs>
 
-  <!-- stepped pixel-shadow layers (dark to light, offset like an 8-bit title) -->
-  <text x="406" y="82" text-anchor="middle" class="pixel-text" font-size="46" fill="#0d2b33">Mohamed Elayyady</text>
-  <text x="403" y="79" text-anchor="middle" class="pixel-text" font-size="46" fill="#134450">Mohamed Elayyady</text>
-  <text x="400" y="76" text-anchor="middle" class="pixel-text" font-size="46" fill="#1c5f6e">Mohamed Elayyady</text>
+  <!-- pixel bracket accents, fully inside frame -->
+  <g fill="#4FC1E9">
+    <rect x="24" y="52" width="8" height="8"/>
+    <rect x="24" y="60" width="8" height="8"/>
+    <rect x="24" y="68" width="8" height="8"/>
+    <rect x="32" y="52" width="8" height="8"/>
+  </g>
+  <g fill="#4FC1E9">
+    <rect x="668" y="52" width="8" height="8"/>
+    <rect x="668" y="60" width="8" height="8"/>
+    <rect x="668" y="68" width="8" height="8"/>
+    <rect x="660" y="52" width="8" height="8"/>
+  </g>
+
+  <!-- stepped pixel-shadow layers -->
+  <text x="356" y="80" text-anchor="middle" class="pixel-text" font-size="40" fill="#0d2b33">Mohamed Elayyady</text>
+  <text x="353" y="77" text-anchor="middle" class="pixel-text" font-size="40" fill="#134450">Mohamed Elayyady</text>
+  <text x="350" y="74" text-anchor="middle" class="pixel-text" font-size="40" fill="#1c5f6e">Mohamed Elayyady</text>
 
   <!-- main text, single accent color -->
-  <text x="397" y="73" text-anchor="middle" class="pixel-text" font-size="46" fill="#4FC1E9">Mohamed Elayyady</text>
+  <text x="347" y="71" text-anchor="middle" class="pixel-text" font-size="40" fill="#4FC1E9">Mohamed Elayyady</text>
 
-  <!-- scattered pixel dots, two-tone accent only -->
-  <rect x="70"  y="30" width="6" height="6" fill="#4FC1E9">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+  <!-- a few deliberate accent pixels, tucked near the brackets only -->
+  <rect x="14" y="30" width="6" height="6" fill="#ff8a3d">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
   </rect>
-  <rect x="90"  y="100" width="6" height="6" fill="#ff8a3d">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.1s" repeatCount="indefinite"/>
+  <rect x="680" y="94" width="6" height="6" fill="#ff8a3d">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
   </rect>
-  <rect x="720" y="35" width="6" height="6" fill="#ff8a3d">
-    <animate attributeName="opacity" values="1;0.3;1" dur="1.9s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="700" y="105" width="6" height="6" fill="#4FC1E9">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- pixel bracket accents flanking the name -->
-  <g fill="#4FC1E9" opacity="0.85">
-    <rect x="40" y="55" width="6" height="6"/>
-    <rect x="40" y="61" width="6" height="6"/>
-    <rect x="40" y="67" width="6" height="6"/>
-    <rect x="46" y="55" width="6" height="6"/>
-  </g>
-  <g fill="#4FC1E9" opacity="0.85">
-    <rect x="754" y="55" width="6" height="6"/>
-    <rect x="754" y="61" width="6" height="6"/>
-    <rect x="754" y="67" width="6" height="6"/>
-    <rect x="748" y="55" width="6" height="6"/>
-  </g>
 </svg>
