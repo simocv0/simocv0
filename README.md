@@ -34,13 +34,6 @@
 
 ---
 
-### Experience
-
-**Freelance C/C++ Developer & QA Collaborator** · Remote · *Feb 2025 – Aug 2025*
-Delivered memory-safe C/C++ modules for external clients, verified with Valgrind, and performed code review and functional testing that caught system-level issues before delivery.
-
----
-
 ### Technical Skills
 
 | Category | Technologies |
